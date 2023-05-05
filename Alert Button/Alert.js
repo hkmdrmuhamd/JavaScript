@@ -1,0 +1,1 @@
+alert("Bu bir alert dialogdur.")
